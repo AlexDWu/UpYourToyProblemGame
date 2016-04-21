@@ -15,4 +15,4 @@ http://sublimetext.info/docs/en/reference/build_systems.html
 - Sublime Web Inspector
 - Visual Studio Code
 - Atom
-- Don't just stop at these things, or do because you don't want to waste your time constantly figuring out how to set up a new IDE/editor/bulid system
+- Don't stop at just these things, or do because you don't want to waste your time constantly figuring out how to set up a new IDE/editor/bulid system
