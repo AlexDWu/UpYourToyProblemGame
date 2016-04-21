@@ -6,3 +6,12 @@ Resources for a talk for Hack Reactor Students about options for running toy pro
 - Script Tags
 - Node
 - Snippets
+
+#### More on Node Bulid systems
+http://sublimetext.info/docs/en/reference/build_systems.html
+
+#### Other things to look into
+- node --debug-brk
+- Sublime Web Inspector
+- Visual Studio Code
+- Atom
